@@ -1,3 +1,3 @@
-module ch1
+module geek-web
 
 go 1.21
